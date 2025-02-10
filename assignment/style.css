@@ -18,6 +18,7 @@ p{
 /* Put a border around your image */
     img{
         border: 5px solid magenta; padding: 3px; margin: 10px;
+        background-color: aqua;
     }
 /* Change the font-family of your list */
 ol{
